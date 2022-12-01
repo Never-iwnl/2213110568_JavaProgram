@@ -1,0 +1,4 @@
+StudentID:  2213110568
+Fullname(in English):  Patcharaphol
+AKA :
+ClassDetail:  String Method
