@@ -13,11 +13,11 @@ public class Lab302 {
 			JOptionPane.showMessageDialog(null,"BMI = "+frm.format(Bmi)
 			+"\nYou're Underweight","Bmi",JOptionPane.WARNING_MESSAGE);
 		}
-		if (Bmi<24.9) {
+		if (Bmi>18.5&&Bmi<24.9) {
 				JOptionPane.showMessageDialog(null,"BMI = "+frm.format(Bmi)
 				+"\nYou're Normal-weight","Bmi",JOptionPane.WARNING_MESSAGE);
 		}
-		if (Bmi<29.9) {
+		if (Bmi>25&&Bmi<29.9) {
 			JOptionPane.showMessageDialog(null,"BMI = "+frm.format(Bmi)
 			+"\nYou're Overweight","Bmi",JOptionPane.WARNING_MESSAGE);
 		}
