@@ -1,4 +1,4 @@
 StudenID:2213110568
 Fullname: Patcharaphol Sangmanee
 AKA:Nice 
-ClassDetail : Control Statement
+ClassDetail:String Method
